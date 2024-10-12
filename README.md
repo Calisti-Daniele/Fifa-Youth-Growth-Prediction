@@ -43,7 +43,7 @@ Assicurati di avere il dataset aggiornato dei giocatori giovani di FIFA. Puoi tr
 ### Avvio del Progetto
 Clona questo repository:
 ```bash
-git clone https://github.com/tuonomeutente/FIFA-Youth-Growth-Predictor.git
+git clone https://github.com/Calisti-Daniele/Fifa-Youth-Growth-Prediction.git
 ```
 
 Esegui lo script principale:
@@ -56,4 +56,9 @@ python predict.py
 - 🧠 **Miglioramento dell'accuratezza** del modello di machine learning
 - 📊 **Integrazione di nuove metriche** per valutare la performance dei giocatori
 - 🌍 **Aggiunta di un'interfaccia grafica** per visualizzare facilmente i risultati
+
+## 🤝 Contributi
+
+Contributi, suggerimenti e pull request sono sempre benvenuti! Sentiti libero di esplorare il repository e migliorare il progetto. 💡
+
 
