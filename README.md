@@ -35,6 +35,7 @@ Utilizzando un dataset dei giocatori giovani di FIFA, il progetto si concentra s
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Dataset
 Assicurati di avere il dataset aggiornato dei giocatori giovani di FIFA. Puoi trovarlo su FIFA Data Source o crearne uno a partire da API esistenti.
@@ -43,10 +44,12 @@ Assicurati di avere il dataset aggiornato dei giocatori giovani di FIFA. Puoi tr
 Clona questo repository:
 ```bash
 git clone https://github.com/tuonomeutente/FIFA-Youth-Growth-Predictor.git
+```
 
 Esegui lo script principale:
 ```bash
 python predict.py
+```
 
 ## 🎯 Obiettivi Futuri
 
