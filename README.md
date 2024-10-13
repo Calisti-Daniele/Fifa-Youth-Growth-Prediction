@@ -1,15 +1,16 @@
+
+```markdown
 # ⚽ FIFA Youth Growth Prediction - Scopri le Promesse del Calcio! 🧠
 
 Benvenuto nel progetto **FIFA Youth Growth Prediction**! 🚀 Questo tool sfrutta l'intelligenza artificiale e il machine learning per analizzare le statistiche dei giovani giocatori di FIFA, prevedendo la loro crescita e identificando i futuri campioni. 🌟
-
 
 ## 📋 Descrizione del Progetto
 
 L'obiettivo principale di questo progetto è quello di creare un modello predittivo che, a partire dalle statistiche iniziali di un giocatore, possa stimarne il potenziale di crescita. 💪
 
-Utilizzando un dataset dei giocatori giovani di FIFA, il progetto si concentra su:
+Utilizzando un dataset dei giovani giocatori di FIFA, il progetto si concentra su:
 
-- Prevedere le statistiche future (overall rating) 🎯
+- Prevedere le statistiche future 🎯
 - Identificare le promesse più promettenti del calcio 🏆
 - Supportare gli allenatori virtuali nella gestione della carriera 💼
 
@@ -31,25 +32,26 @@ Utilizzando un dataset dei giocatori giovani di FIFA, il progetto si concentra s
 ### Prerequisiti
 
 - Python 3.8 o superiore
-- Installare le dipendenze tramite `pip`:
+- Pacchetti da installare:
 
 ```bash
-pip install -r requirements.txt
+pip install tensorflow pandas numpy matplotlib seaborn
 ```
 
 ### Dataset
-Assicurati di avere il dataset aggiornato dei giocatori giovani di FIFA. Puoi trovarlo su FIFA Data Source o crearne uno a partire da API esistenti.
+
+Assicurati di avere il dataset aggiornato dei giovani giocatori di FIFA. Puoi trovarlo su [FIFA Data Source](https://www.fifadatasource.com) o crearne uno a partire da API esistenti.
 
 ### Avvio del Progetto
-Clona questo repository:
-```bash
-git clone https://github.com/Calisti-Daniele/Fifa-Youth-Growth-Prediction.git
-```
 
-Esegui lo script principale:
-```bash
-python predict.py
-```
+1. Clona questo repository:
+   ```bash
+   git clone https://github.com/Calisti-Daniele/Fifa-Youth-Growth-Prediction.git
+   ```
+2. Esegui lo script principale:
+   ```bash
+   python predict.py
+   ```
 
 ## 🎯 Obiettivi Futuri
 
@@ -61,4 +63,82 @@ python predict.py
 
 Contributi, suggerimenti e pull request sono sempre benvenuti! Sentiti libero di esplorare il repository e migliorare il progetto. 💡
 
+## 📜 Licenza
 
+Distribuito sotto la licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
+
+---
+
+# ⚽ FIFA Youth Growth Prediction - Discover the Soccer Stars of Tomorrow! 🧠
+
+Welcome to the **FIFA Youth Growth Prediction** project! 🚀 This tool leverages artificial intelligence and machine learning to analyze FIFA's young player stats, predicting their growth and identifying future soccer stars. 🌟
+
+## 📋 Project Description
+
+The primary goal of this project is to build a predictive model that, based on a player's initial stats, can estimate their potential growth. 💪
+
+By using a dataset of FIFA's young players, the project focuses on:
+
+- Predicting future stats (overall rating) 🎯
+- Identifying the most promising soccer talents 🏆
+- Helping virtual managers with career mode decisions 💼
+
+## 🔍 Features
+
+- **Accurate predictions** of players' future stats using neural networks 📊
+- Growth analysis and visualization for each player 📈
+- Ranking of top young players based on potential 🌍
+
+## 🛠️ Technologies Used
+
+- **Python** 🐍
+- **TensorFlow/Keras** for machine learning 🤖
+- **Pandas and NumPy** for dataset handling 📑
+- **Matplotlib and Seaborn** for data visualization 📊
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- Packages to install:
+
+```bash
+pip install tensorflow pandas numpy matplotlib seaborn
+```
+
+### Dataset
+
+Make sure you have the updated dataset of FIFA's young players. You can find it on [FIFA Data Source](https://www.fifadatasource.com) or create one from available APIs.
+
+### Running the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Calisti-Daniele/Fifa-Youth-Growth-Prediction.git
+   ```
+2. Run the main script:
+   ```bash
+   python predict.py
+   ```
+
+## 🎯 Future Goals
+
+- 🧠 **Improve accuracy** of the machine learning model
+- 📊 **Integrate new metrics** to evaluate player performance
+- 🌍 **Add a graphical interface** to easily display the results
+
+## 🤝 Contributions
+
+Contributions, suggestions, and pull requests are always welcome! Feel free to explore the repository and improve the project. 💡
+
+## 📜 License
+
+Distributed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+**Become the best virtual manager with the FIFA Youth Growth Predictor and discover the stars of tomorrow! 🌟⚽**
+```
+
+Ora puoi semplicemente copiare e incollare questo testo nel tuo file README su GitHub!
