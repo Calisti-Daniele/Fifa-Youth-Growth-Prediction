@@ -38,9 +38,6 @@ Utilizzando un dataset dei giovani giocatori di FIFA, il progetto si concentra s
 pip install tensorflow pandas numpy matplotlib seaborn
 ```
 
-### Dataset
-
-Assicurati di avere il dataset aggiornato dei giovani giocatori di FIFA. Puoi trovarlo su [FIFA Data Source](https://www.fifadatasource.com) o crearne uno a partire da API esistenti.
 
 ### Avvio del Progetto
 
@@ -103,10 +100,6 @@ By using a dataset of FIFA's young players, the project focuses on:
 ```bash
 pip install tensorflow pandas numpy matplotlib seaborn
 ```
-
-### Dataset
-
-Make sure you have the updated dataset of FIFA's young players. You can find it on [FIFA Data Source](https://www.fifadatasource.com) or create one from available APIs.
 
 ### Running the Project
 
