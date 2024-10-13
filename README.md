@@ -63,9 +63,6 @@ Assicurati di avere il dataset aggiornato dei giovani giocatori di FIFA. Puoi tr
 
 Contributi, suggerimenti e pull request sono sempre benvenuti! Sentiti libero di esplorare il repository e migliorare il progetto. 💡
 
-## 📜 Licenza
-
-Distribuito sotto la licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
 
 ---
 
@@ -132,13 +129,8 @@ Make sure you have the updated dataset of FIFA's young players. You can find it 
 
 Contributions, suggestions, and pull requests are always welcome! Feel free to explore the repository and improve the project. 💡
 
-## 📜 License
-
-Distributed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
-**Become the best virtual manager with the FIFA Youth Growth Predictor and discover the stars of tomorrow! 🌟⚽**
+**Become the best virtual manager with the FIFA Youth Growth Prediction and discover the stars of tomorrow! 🌟⚽**
 ```
 
-Ora puoi semplicemente copiare e incollare questo testo nel tuo file README su GitHub!
