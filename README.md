@@ -1,5 +1,5 @@
 
-```markdown
+
 # ⚽ FIFA Youth Growth Prediction - Scopri le Promesse del Calcio! 🧠
 
 Benvenuto nel progetto **FIFA Youth Growth Prediction**! 🚀 Questo tool sfrutta l'intelligenza artificiale e il machine learning per analizzare le statistiche dei giovani giocatori di FIFA, prevedendo la loro crescita e identificando i futuri campioni. 🌟
